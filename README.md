@@ -1,5 +1,3 @@
-# Table of contents
-
 ## Intallations
 The files and librarys used in this project are:
 * pandas
@@ -30,5 +28,5 @@ The second goal is to learn how to apply all the information and techniques I ha
 
 Thre are only 2 main files, the first one, a jupyter notebook with all the project. Along this one, you will find a .py file, inside you will find some functions I created to be used in this project.
 
-# Author 
+## Author 
 Pablo Carbonero Álvarez
