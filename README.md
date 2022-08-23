@@ -1,5 +1,5 @@
 ## Intallations
-The files and librarys used in this project are:
+The librarys used in this project are:
 * pandas
 * numpy
 * matplotlib
