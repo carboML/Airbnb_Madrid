@@ -44,7 +44,7 @@ This project has been structured using the CRISP-DM method. In the notebook file
   In this part the model was evaluated. Since the value of the r-square is 0.5234 we cannot say that we can predict or estimate the price of an accomodating based on the other selected features. A r-square of 0.75 or more will be enougth.
 
 
-# Answers to que questions
+#### Answers to que questions
 
 A1.- Each bar of the plot represent a neighborhood group in Madrid. The plot show the percentaje of accomodations in that neighborhood. For example, more than the 40% of the accomodations available in Airbnb Madrid are located in the neighborhood "Centro", which in English mean, center of the city. So the answer for the questions is no. But, we have 2 features, first we have neighborhood group and then we have neighborhood. A neighborhood group form by some neighborhood. This is important for the next question.
 
