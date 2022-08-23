@@ -15,7 +15,7 @@ This project has 2 main goals. The first one is to get some insigths from the Ai
 
 The dataset is full of information about the accommodates avaible in Airbnb in the city of Madrid. With all this information we are going to ask ourself a few questions:
 
-1.- Is the quantity of accommodation offer equal all arround Madrid?
+1.- Is the quantity of accommodation offer equal all arround Madrid? <br>
 2.- If a neighbourhood group has a lot of accommodations, does it mean that each of it's indiviual neighbourhood has it too?
 3.- Are the prices equal all over Madrid
 4.- How are the prices and availability rate in Madrid over the months
