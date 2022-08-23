@@ -29,8 +29,13 @@ The second goal is to learn how to apply all the information and techniques I ha
 This project has been structured using the CRISP-DM method. In the notebook file you will find easy to go throgth each step since everything is documented.
 1.- Business Understanding
   In this part, I first took a look at the data provided by Airbnb. Everyone can find this dataset in the [Airbnb get-data](http://insideairbnb.com/get-the-data/)
-  
-  came up with few questions I would like to answer using the dataset. 
+  After understand what does each feature means I came up with some ideas.
+
+2.- Data Understanding
+  Now, it was time to take a look to the type of variables of each column, the shape of each dataframe and take a look at the null values.
+
+3.- Data Preparation
+  In this part I drop the columns with more than 50% of Nan valules and drop some column that weren't useful for this project. After that, I corrected some data types and nomenclature errors.
 
 
 
